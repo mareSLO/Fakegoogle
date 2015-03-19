@@ -1,0 +1,208 @@
+.header {
+    text-align: right;
+    
+}
+ 
+.header a {
+    text-decoration: none;
+    font-size: 13px;
+    font-family: arial, sans-serif;
+    padding-right: 10px;
+    color: black;
+    
+    
+    
+}
+ 
+a:visited {
+    color: black;
+ 
+}
+    
+    
+a:hover {
+    text-decoration: underline;
+        
+}
+ 
+ 
+ 
+ 
+.body {
+    background-image: url(https://www.google.si/images/srpr/logo11w.png);
+    background-size: 269px 95px;
+    width: 269px;
+    height: 95px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    
+    
+       
+}
+ 
+ 
+.slo {
+    position: relative;
+    font-size: 16px;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    color: #777;
+    left: 218px;
+    top: 70px;
+}
+    
+#searchbox {          
+    width: 550px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+#search {
+    width: 550px;
+    margin-top: 27px;
+    height: 19px;
+ 
+    
+}
+    
+#button {
+    width: 95px;
+    height: 28px;
+    margin-top: 10px;
+    margin-left: 172px;
+    margin-right: 10px;
+    font-size: 11px;
+    color: #444;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    background-color:whitesmoke;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    
+    
+        
+}
+ 
+#button2 {
+    width: 95px;
+    height: 28px;
+    font-size: 11px;
+    color: #444;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+      
+}
+ 
+#button:hover {
+    border-color: #b1b8ba;
+} 
+
+
+#button2:hover {
+    border-color: #b1b8ba;
+} 
+
+
+#button2 a {
+    text-decoration: none;
+    
+}
+ 
+#button2 a:visited {
+    color: #444;
+}
+
+
+
+ 
+.footer {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 40px;
+    background-color: #f2f2f2;
+    display: block;
+    font-family: arial, sans-serif;
+    font-size: 13.33px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #e4e4e4;
+    
+ 
+    
+}
+ 
+.fleft a {
+    text-decoration: none;
+    padding-left: 27px;
+    color: #666;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    line-height: 40px;
+}
+ 
+.fleft a:hover {
+    text-decoration: underline;
+}
+ 
+.fright a {
+    text-decoration: none;
+    padding-right: 27px;
+    color: #666;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    line-height: 40px;
+    
+}
+ 
+.fright a:hover {
+    text-decoration: underline;
+}
+ 
+.fleft {
+    float: left;
+    height: 40px;
+    width: auto;
+    display: inline-block;
+    line-height: 40px;
+    margin-left: 20px;
+    
+}
+ 
+.fright {
+    width: auto;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 20px;
+    float: right;
+    display: inline-block;
+}
